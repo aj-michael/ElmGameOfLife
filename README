@@ -1,3 +1,5 @@
 basic implementation of conway's game of life with elm
 
 responds to mouse clicks and is initialized with one pulsar and one glider gun
+
+http://ajmichael.net/conway.elm.html
